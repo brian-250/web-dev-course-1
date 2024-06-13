@@ -9,7 +9,7 @@ This code shows my progress of exercise #1 in my new web dev course!
 ## Example of Webpage
 
 <div align="center">
-  <img src="" width="1500px" />
+  <img src="image1.png" alt="image of webpage" width="1500px" />
 </div>
-
+<br>
 Thanks for reading!🙏
